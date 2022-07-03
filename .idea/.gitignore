@@ -4,3 +4,6 @@
 
 folder/*
 !folder/*/
+
+.gradle/*
+build/*

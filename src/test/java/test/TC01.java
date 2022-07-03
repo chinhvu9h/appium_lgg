@@ -16,7 +16,7 @@ public class TC01 extends TestBase{
 
 
     @Test
-    public void TC01() throws InterruptedException {
+    public void TC01() {
         System.out.println("Inside test");
 
         By home =By.xpath("//android.widget.ImageButton[@content-desc='Open navigation drawer']");
