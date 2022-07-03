@@ -5,5 +5,5 @@
 folder/*
 !folder/*/
 
-.gradle/*
-build/*
+.gradle/*/*
+build/*/*
